@@ -3,6 +3,6 @@ Type=Application
 Encoding=UTF-8
 Name=VirSH action
 Comment=Basic VM management tool
-Exec=/home/vladimir/Install/Scripts/virsh-action/virsh-action.sh
+Exec=PATHTODESKTOPFILE
 Icon=emblem-system-symbolic
 Terminal=false
